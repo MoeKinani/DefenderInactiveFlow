@@ -1,0 +1,22 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "DeviceId": {
+                "type": "string"
+            },
+            "N/A": {
+                "type": "string"
+            },
+            "SensorEnabled": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "DeviceId",
+            "N/A",
+            "SensorEnabled"
+        ]
+    }
+}
